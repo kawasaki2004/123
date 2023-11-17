@@ -1,0 +1,30 @@
+V 000049 55 1226          1695111085449 arc_memo
+(_unit VHDL (ent_memo 0 28 (arc_memo 0 42 ))
+	(_version v98)
+	(_time 1695111085450 2023.09.19 11:11:25)
+	(_source (\./src/memo.vhd\))
+	(_use (std(standard))(ieee(std_logic_1164)))
+	(_code 53555f500505034604031709075507550555565506)
+	(_entity
+		(_time 1695111085447)
+		(_use (std(standard))(ieee(std_logic_1164)))
+	)
+	(_object
+		(_port (_internal A ~extieee.std_logic_1164.STD_LOGIC 0 30 (_entity (_in ))))
+		(_port (_internal RAS ~extieee.std_logic_1164.STD_LOGIC 0 31 (_entity (_in ))))
+		(_port (_internal CAS ~extieee.std_logic_1164.STD_LOGIC 0 32 (_entity (_in ))))
+		(_port (_internal WE ~extieee.std_logic_1164.STD_LOGIC 0 33 (_entity (_in ))))
+		(_port (_internal OE ~extieee.std_logic_1164.STD_LOGIC 0 34 (_entity (_in ))))
+		(_port (_internal CS ~extieee.std_logic_1164.STD_LOGIC 0 35 (_entity (_in ))))
+		(_port (_internal DIO ~extieee.std_logic_1164.STD_LOGIC 0 36 (_entity (_out ))))
+		(_process
+			(RAM(_architecture 0 0 45 (_process (_simple)(_target(6))(_sensitivity(0)(1)(2)(3)(4)(5)))))
+		)
+		(_subprogram
+			(_external resolved (ieee std_logic_1164 15))
+		)
+		(_type (_external ~extieee.std_logic_1164.STD_LOGIC (ieee std_logic_1164 STD_LOGIC)))
+	)
+	(_model . arc_memo 1 -1
+	)
+)
